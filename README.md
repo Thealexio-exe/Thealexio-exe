@@ -6,8 +6,7 @@
 - I'm working on a new personal project.
 
 ## 💻 **Languages**: 
-**I know**:
-- `c++`, `python` and `html/css` 
+**I know**: `c++`, `python` and `html/css`
 
 **I'm learning**: `js` and `c#`
 
