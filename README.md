@@ -1,16 +1,19 @@
-## Hi I'm Alessio (aka Thealexio.exe) 
+# Hi I'm Alessio (aka Thealexio.exe) 👋
 
-<!--
-**Thealexio-exe/Thealexio-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 **About me**:
+- I am student in computer science
+- Beginner video editor using Premiere Pro
+- I'm working on a new personal project.
 
-Here are some ideas to get you started:
+## 💻 **Languages**: 
+- **I know**:
+  - c++
+  - html/css
+  - python
+- **I'm learning**:
+  - js
+  - c#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Contact**:
+- 📫 Mail: `argenti.projects@gmail.com`
+- 🟣 Discord: `thealexio10.`
