@@ -7,10 +7,13 @@
 
 ## 💻 **Languages**: 
 **I know**:
-- `c++` and `python`
-- `html/css`
+- `c++`, `python` and `html/css` 
 
 **I'm learning**: `js` and `c#`
+
+## 🚀 Projects
+- Electronic Configuration converter (Python and Tkinter)
+- More coming soon for c++
 
 ## **Contact**:
 - 📫 Mail: `argenti.projects@gmail.com`
