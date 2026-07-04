@@ -6,13 +6,11 @@
 - I'm working on a new personal project.
 
 ## 💻 **Languages**: 
-- **I know**:
-  - c++
-  - html/css
-  - python
-- **I'm learning**:
-  - js
-  - c#
+**I know**:
+- `c++` and `python`
+- `html/css`
+
+**I'm learning**: `js` and `c#`
 
 ## **Contact**:
 - 📫 Mail: `argenti.projects@gmail.com`
