@@ -12,7 +12,7 @@
 
 ## 🚀 Projects
 - Electronic Configuration converter (Python and Tkinter)
-- More coming soon for c++
+- Im working on c++ projects, Lernig-cpp-by-projects
 
 ## **Contact**:
 - 📫 Mail: `argenti.projects@gmail.com`
