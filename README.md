@@ -1,4 +1,4 @@
-# Hi I'm Alessio (aka Thealexio.exe) 👋
+# Hi I'm Alessio (aka Thealexio) 👋
 
 ## 🧠 **About me**:
 - I am student in computer science
