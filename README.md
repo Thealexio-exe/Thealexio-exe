@@ -12,7 +12,8 @@
 
 ## 🚀 Projects
 - [Electronic Configuration converter](https://github.com/Thealexio-exe/Electronic-configuration) (Python and Tkinter)
-- Im working on c++ projects, [Lernig-cpp-by-projects](https://github.com/Thealexio-exe/learn-cpp-by-projects)
+- [Lernig-cpp-by-projects](https://github.com/Thealexio-exe/learn-cpp-by-projects) (Demo)
+- I'm working on a new project with .rpy
 
 ## **Contact**:
 - 📫 Mail: `argenti.projects@gmail.com`
