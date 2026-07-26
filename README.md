@@ -5,10 +5,21 @@
 - Beginner video editor using Premiere Pro
 - I'm working on a new personal project.
 
-## 💻 **Languages**: 
-**I know**: `c++`, `python` and `html/css`
+## ⚒️ **skills**: 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
+</p>
 
-**I'm learning**: `js` and `c#`
+### 🧰 Applications
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows" />
+</p>
+
+### 📖 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cs" />
+</p>
 
 ## 🚀 Projects
 - [Electronic Configuration converter](https://github.com/Thealexio-exe/Electronic-configuration) (Python and Tkinter)
