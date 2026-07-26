@@ -6,18 +6,18 @@
 - I'm working on a new personal project.
 
 ## ⚒️ **skills**: 
-### 💻 Languages
-<p>
+<h3 align="center">💻 Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
 </p>
 
-### 🧰 Applications
-<p>
+<h3 align="center">🧰 Applications</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows" />
 </p>
 
-### 📖 Currently Learning
-<p>
+<h3 align="center">📖 Currently Learning</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,cs" />
 </p>
 
