@@ -8,17 +8,17 @@
 ## ⚒️ **skills**: 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css">
 </p>
 
 <h3 align="center">🧰 Applications</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows"> <!--<img src="[!renpy]()"> -->
 </p>
 
 <h3 align="center">📖 Currently Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs" />
+  <img src="https://skillicons.dev/icons?i=js,cs">
 </p>
 
 ## 🚀 Projects
