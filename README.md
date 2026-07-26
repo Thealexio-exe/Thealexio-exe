@@ -8,12 +8,12 @@
 ## ⚒️ **skills**: 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css">
+  <img src="https://github.com/Thealexio-exe/Thealexio-exe/blob/main/asset/renpy.png" height="80" width="80" gap="0"> <img src="https://skillicons.dev/icons?i=cpp,python,html,css"> 
 </p>
 
 <h3 align="center">🧰 Applications</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows"> <!--<img src="[!renpy]()"> -->
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows"> 
 </p>
 
 <h3 align="center">📖 Currently Learning</h3>
