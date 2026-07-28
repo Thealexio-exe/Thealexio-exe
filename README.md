@@ -29,7 +29,7 @@
 ## **Contact**:
 ### **📫 Mail**
 ```bash
-  argenti.projects@gmail.com
+argenti.projects@gmail.com
 ```
 ### **🟣 Discord**
 ```bash
