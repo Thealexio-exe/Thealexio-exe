@@ -27,5 +27,11 @@
 - I'm working on a new project with .rpy
 
 ## **Contact**:
-- 📫 Mail: `argenti.projects@gmail.com`
-- 🟣 Discord: `thealexio10.`
+### **📫 Mail**
+```bash
+  argenti.projects@gmail.com
+```
+### **🟣 Discord**
+```bash
+thealexio10.
+```
