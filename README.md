@@ -23,9 +23,30 @@
 </p>
 
 ## 🚀 Projects
-- [Electronic Configuration converter](https://github.com/Thealexio-exe/Electronic-configuration) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
-- [Lernig-cpp-by-projects](https://github.com/Thealexio-exe/learn-cpp-by-projects) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-- I'm working on a new project with .rpy
+
+<table>
+  <tbody>
+    <tr>
+      <td width="300"><a href="https://github.com/Thealexio-exe/Electronic-configuration">Electronic Configuration converter</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Tkinter-GUI-orange">
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">Lernig-cpp-by-projects</a></td>
+      <td>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td>I'm working on a new project</td>
+      <td>
+        <img src="https://img.shields.io/badge/Ren'Py-6A5ACD?style=flat&logo=renpy&logoColor=white">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## **Contact**:
 ### **📫 Mail**
