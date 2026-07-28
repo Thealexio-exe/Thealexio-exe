@@ -31,12 +31,14 @@
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Tkinter-GUI-orange">
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">Lernig-cpp-by-projects</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Beginner-Friendly-brightgreen">
       </td>
     </tr>
     <tr>
