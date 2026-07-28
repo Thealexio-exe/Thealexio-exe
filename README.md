@@ -1,10 +1,10 @@
 # Hi I'm Alessio (aka Thealexio) 👋
 
 ## 🧠 **About me**:
-- High school student in Computer Science.
-- Beginner video editor using Premiere Pro
-- Familiar with Autocad and Onshape for simple 2D and 3D design
-- I'm working on a new personal project.
+- 🖥️ High school student in Computer Science.
+- 📹 Beginner video editor using Premiere Pro
+- 📐 Familiar with Autocad and Onshape for simple *2D* and *3D* design
+- 🚀 I'm working on a new personal project.
 
 ## ⚒️ **skills**: 
 <h3 align="center">💻 Languages</h3>
