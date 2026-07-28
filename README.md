@@ -14,7 +14,7 @@
 
 <h3 align="center">🧰 Applications</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows,autocad"> 
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,ps,windows,autocad"> 
 </p>
 
 <h3 align="center">📖 Currently Learning</h3>
