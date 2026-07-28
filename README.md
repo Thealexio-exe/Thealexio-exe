@@ -23,8 +23,8 @@
 </p>
 
 ## 🚀 Projects
-- [Electronic Configuration converter](https://github.com/Thealexio-exe/Electronic-configuration) (Python and Tkinter)
-- [Lernig-cpp-by-projects](https://github.com/Thealexio-exe/learn-cpp-by-projects) (Demo)
+- [Electronic Configuration converter](https://github.com/Thealexio-exe/Electronic-configuration) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
+- [Lernig-cpp-by-projects](https://github.com/Thealexio-exe/learn-cpp-by-projects) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 - I'm working on a new project with .rpy
 
 ## **Contact**:
