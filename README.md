@@ -1,7 +1,7 @@
 # Hi I'm Alessio (aka Thealexio) 👋
 
 ## 🧠 **About me**:
-- I am student in computer science
+- High school student in Computer Science.
 - Beginner video editor using Premiere Pro
 - I'm working on a new personal project.
 
