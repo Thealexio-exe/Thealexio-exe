@@ -9,7 +9,7 @@
 ## ⚒️ **skills**: 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://github.com/Thealexio-exe/Thealexio-exe/blob/main/asset/renpy.png" height="45" width="45" gap="0" alt="Ren'py"><img src="https://skillicons.dev/icons?i=cpp,python,html,css"> 
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css"> <img src="https://github.com/Thealexio-exe/Thealexio-exe/blob/main/asset/renpy.png" height="45" width="45" gap="0" alt="Ren'py">
 </p>
 
 <h3 align="center">🧰 Applications</h3>
