@@ -38,7 +38,6 @@
       <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">Lernig-cpp-by-projects</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/Beginner-Friendly-brightgreen">
       </td>
     </tr>
     <tr>
