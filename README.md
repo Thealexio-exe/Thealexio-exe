@@ -19,7 +19,7 @@
 
 <h3 align="center">📖 Currently Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs,unity">
+  <img src="https://skillicons.dev/icons?i=js,cs,unity,linux">
 </p>
 
 ## 🚀 Projects
