@@ -34,7 +34,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Lernig-cpp-by-projects</a></td>
+      <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Lernig-cpp-by-projects (Rework coming)</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
       </td>
