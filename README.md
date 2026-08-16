@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td>🛠️ I'm working on a new project</td>
+      <td>🛠️ I'm working on 2 projects (0/2)</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Ren'Py-GUI-orange?style=flat&logo=renpy&logoColor=white">
