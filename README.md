@@ -26,28 +26,33 @@
 <table>
   <tbody>
     <tr>
-      <td width="300"><a href="https://github.com/Thealexio-exe/Electronic-configuration">:atom: Electronic Configuration converter</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Tkinter-GUI-orange">
-        <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
+      <td width="55%">
+        <a href="https://github.com/Thealexio-exe/Electronic-configuration">⚛️ Electronic Configuration converter</a>
+      </td>
+      <td width="45%">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Tkinter-GUI-orange" alt="Tkinter">
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Lernig cpp by projects</a> (new Rework)</td>
       <td>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
+        <a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Learning cpp by projects</a> (new v3.0)
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
       </td>
     </tr>
     <tr>
       <td>🛠️ I'm working on 2 projects (0/2)</td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Ren'Py-GUI-orange?style=flat&logo=renpy&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Ren'Py-GUI-orange?style=flat&logo=renpy&logoColor=white" alt="RenPy">
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## **Contact**:
 ### **📫 Mail**
