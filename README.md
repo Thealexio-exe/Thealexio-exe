@@ -43,13 +43,6 @@
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
       </td>
     </tr>
-    <tr>
-      <td>🛠️ I'm working on 2 projects (0/2)</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Ren'Py-GUI-orange?style=flat&logo=renpy&logoColor=white" alt="RenPy">
-      </td>
-    </tr>
   </tbody>
 </table>
 
