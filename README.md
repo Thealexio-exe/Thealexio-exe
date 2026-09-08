@@ -6,12 +6,12 @@
 - 📐 Familiar with Autocad and Onshape for simple *2D* and *3D* design
 
 ## ⚒️ **skills**: 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">💻 I code in</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css"> <img src="https://github.com/Thealexio-exe/Thealexio-exe/blob/main/asset/renpy.png" height="45" width="45" gap="0" alt="Ren'py">
 </p>
 
-<h3 align="center">🧰 Applications</h3>
+<h3 align="center">🧰 Applications and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows,autocad"> 
 </p>
