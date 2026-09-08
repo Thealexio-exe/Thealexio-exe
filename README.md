@@ -26,10 +26,10 @@
 <table>
   <tbody>
     <tr>
-      <td width="55%">
+      <td width="50%">
         <a href="https://github.com/Thealexio-exe/Electronic-configuration">⚛️ Electronic Configuration converter</a>
       </td>
-      <td width="45%">
+      <td width="50%">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Tkinter-GUI-orange" alt="Tkinter">
         <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
