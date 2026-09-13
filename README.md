@@ -13,7 +13,8 @@
 
 <h3 align="center">🧰 Applications and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows,autocad"> 
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,ps,windows,autocad">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bambu-lab.svg" width="48" height="48" alt="Bambu Lab">
 </p>
 
 <h3 align="center">📖 Currently Learning</h3>
