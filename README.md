@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Learning cpp by projects</a> (new v3.0)
+        <a href="https://github.com/Thealexio-exe/learn-cpp-by-projects">📖 Learning cpp by projects</a> (new v4.0)
       </td>
       <td>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
