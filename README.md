@@ -4,6 +4,7 @@
 - 🖥️ High school student in Computer Science.
 - 📹 Beginner video editor using Premiere Pro
 - 📐 Familiar with Autocad and Onshape for simple *2D* and *3D* design
+- 🖨️ I know how to use 3D printing and regularly use my P1S
 
 ## ⚒️ **skills**: 
 <h3 align="center">💻 I code in</h3>
